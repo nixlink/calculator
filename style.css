@@ -49,6 +49,8 @@ btn {
     background-color: beige;
 }
 
+
+
 .span2 {
     grid-column: span 2;
 }
